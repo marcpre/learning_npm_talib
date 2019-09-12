@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140_xp:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+csr|x64|C:\Users\marcus\Desktop\Coding_Projects\learning_npm_talib\node_modules\talib\src\lib\make\csr\windows\msbuild\|

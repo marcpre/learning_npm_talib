@@ -1,0 +1,23 @@
+{
+  "name": "learning_npm_talib",
+  "version": "1.0.0",
+  "description": "1. Use [windows-build-tools](https://www.npmjs.com/package/windows-build-tools)\r 2. Install `install --save talib`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/learning_npm_talib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/learning_npm_talib/issues"
+  },
+  "homepage": "https://github.com/marcpre/learning_npm_talib#readme",
+  "dependencies": {
+    "talib": "^1.1.2"
+  }
+}
