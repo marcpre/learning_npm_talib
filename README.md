@@ -5,6 +5,10 @@
 1. Use [windows-build-tools](https://www.npmjs.com/package/windows-build-tools)
 2. Install `install --save talib`
 
+## Usage
+
+Use the already build-version in the `\talib` folder. 
+
 ## Errors
 
 ### Error: ENOENT: no such file or directory, scandir 'C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework'
